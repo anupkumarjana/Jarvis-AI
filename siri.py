@@ -91,9 +91,6 @@ if __name__ == "__main__":
         elif 'open gmail' in query:
             webbrowser.open("https://www.gmail.com")
 
-        elif 'panu dekhbo' in query:
-            webbrowser.open("https://www.xvideos.com")
-
 
         elif 'play music' in query:
             music_dir = 'C:\\Users\\ANUP\\Music'
